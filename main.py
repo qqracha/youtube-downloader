@@ -10,13 +10,16 @@ if not os.path.exists(save_folder):
 
 url = input("> Paste video link: ")
 
-# Настройки скачивания
+# setiings download
 ydl_opts = {
-    'format': 'best',               # скачать лучшее качество видео+аудио
-    'outtmpl': os.path.join(save_folder, '%(title)s.%(ext)s'), # имя файла: название видео + расширение
+    'format': 'best',               # video quality
+    'outtmpl': os.path.join(save_folder, '%(title)s.%(ext)s'), # file name: name vidoo + extensions
     'noplaylist': True,             # не скачивать весь плейлист, только одно видео
     'progress_hooks': [],            # можно добавить хук для прогресса
     'concurrent_fragment_downloads': 5,  # скачиваем 5 частей одновременно
+    'extractor_args': {
+        'generic': {'impersonate': 'firefox'}
+    }
 }
 
 # Функция для отображения прогресса
