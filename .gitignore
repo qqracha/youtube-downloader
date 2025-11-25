@@ -1,2 +1,6 @@
 /venv
 /videos
+/build
+/disd
+download.spec
+main.spec
