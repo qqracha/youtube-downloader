@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/qqracha/youtube-downloader">
-        <img src="https://github.com/qqracha/youtube-downloader/blob/main/resources/icon.png" alt="YouTube Downloader" title="YouTube Downloader" width="480" /><br/>
+        <img src="https://github.com/qqracha/youtube-downloader/blob/main/resources/icon.png" alt="YouTube Downloader" title="YouTube Downloader" width="280" /><br/>
     </a><br/>
     <b>Simple YouTube Video Downloader</b>
     <br>
