@@ -4,6 +4,8 @@
 /disd
 download.spec
 main.spec
-yt_download.py
 yt_download.spec
 yt_download.exe
+yt_download_gui.spec
+dist/yt_download_console.exe
+dist/yt_download_gui.exe
