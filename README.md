@@ -1,9 +1,8 @@
 <p align="center">
     <a href="https://github.com/qqracha/youtube-downloader">
-        <img src="https://github.com/qqracha/youtube-downloader/blob/main/resources/icon.png" alt="YouTube Downloader" title="YouTube Downloader" width="280" /><br/>
-    </a><br/>
-    <b>Simple YouTube Video Downloader</b>
-    <br>
+        <img src="https://github.com/qqracha/youtube-downloader/blob/main/resources/icon.png" alt="YouTube Downloader" title="YouTube Downloader" width="280" />
+    </a>
+    <br><br>
     Fast and minimalist tool for downloading YouTube videos
     <br><br>
     <a href="#features">features</a>
@@ -12,11 +11,10 @@
     &nbsp;•&nbsp;
     <a href="#usage">usage</a>
     <br/><br/>
-    <img src="https://img.shields.io/github/license/qqracha/youtube-downloader" alt="License" />
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version" />
+    <img src="https://img.shields.io/github/v/release/qqracha/youtube-downloader" alt="Release" />
 </p>
 
----
 
 
 ## Acknowledgments
