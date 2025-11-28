@@ -5,13 +5,13 @@
     <br><br>
     <b>Youtube Downloader</b>
     <br>
-    Fast and minimalist tool for downloading YouTube videos
+    <a>Fast and minimalist tool for downloading YouTube videos</a>
     <br>
     <a href="#features">features</a>
     &nbsp;•&nbsp;
-    <a href="#installation">installation</a>
+    <a href="#issues">issues</a>
     &nbsp;•&nbsp;
-    <a href="#usage">usage</a>
+    <a href="#build">build</a>
     <br/><br/>
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version" />
     <img src="https://img.shields.io/github/v/release/qqracha/youtube-downloader" alt="Release" />
@@ -23,6 +23,8 @@
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Core download functionality
 - [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) — GUI framework
+
+
 ## Features
 
 - ⚡ **Fast & Efficient** - Powered by yt-dlp for reliable downloads
@@ -31,41 +33,16 @@
 - 🎨 **Modern GUI** - Minimalist dark theme interface built with PyQt6
 - 🖥️ **CLI Version** - Command-line interface for automation and scripting
 
-## Installation
 
-### Requirements
+## Issues
 
-- Python 3.8 or higher
+Download fails with error:
 
-
-## Usage
-
-### GUI Version
-
-Run the graphical interface:
-
-
-1. Paste a YouTube video URL
-2. Select download folder (optional)
-3. Click "Download"
-4. Wait for completion
-
-### CLI Version
-
-Run the command-line version:
-
-
-Follow the prompts to paste video URLs. Type `exit` or press Enter to quit.
-
-
-**Issue:** "PyQt6 not found"
-
-**Issue:** Download fails with error
-- Try updating yt-dlp: `pip install --upgrade yt-dlp`
+- Try install requirements: `pip install -r requirements.txt`
 - Check your internet connection
 - Verify the video URL is valid
 
-## Building Executables
+## Build
 
 ### Windows
 
@@ -83,10 +60,6 @@ Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest features
 - Submit pull requests
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
