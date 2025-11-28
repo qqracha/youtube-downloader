@@ -11,8 +11,6 @@
     <a href="#installation">installation</a>
     &nbsp;•&nbsp;
     <a href="#usage">usage</a>
-    &nbsp;•&nbsp;
-    <a href="#screenshots">screenshots</a>
     <br/><br/>
     <img src="https://img.shields.io/github/license/qqracha/youtube-downloader" alt="License" />
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version" />
