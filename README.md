@@ -3,7 +3,7 @@
         <img src="https://github.com/qqracha/youtube-downloader/blob/main/resources/icon.png" alt="YouTube Downloader" title="YouTube Downloader" width="280" />
     </a>
     <br><br>
-    <b>Youtube Downloader</b>
+    <h2>Youtube Downloader</h2>
     <br>
     Fast and minimalist tool for downloading YouTube videos
     <br>
